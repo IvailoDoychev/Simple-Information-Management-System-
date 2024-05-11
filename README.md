@@ -22,7 +22,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/cinema-ticket-booking-system.git
+git clone https://github.com/IvailoDoychev/cinema-ticket-booking-system.git
 Open the solution in Visual Studio:
 
 Navigate to the cloned directory and open the .sln file.
